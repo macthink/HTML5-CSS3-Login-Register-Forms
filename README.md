@@ -1,4 +1,5 @@
-HTML5-CSS3-Login-Register-Forms
-===============================
+# HTML5/CSS3 Login/Register Forms
 
-Some nice forms
+These are some beatiful Login/Register Forms built with HTML5 & CSS3. 
+
+## Usage
