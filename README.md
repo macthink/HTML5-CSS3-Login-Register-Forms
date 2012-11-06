@@ -1,8 +1,10 @@
-# HTML5/CSS3 Login/Register Forms
+HTML5/CSS3 Login/Register Forms
+=======================
 
-These are some beatiful Login/Register Forms built with HTML5 & CSS3. 
+###[View Demo](http://try.captaintheme.com/elements/forms/index.html)
+These are some beatiful Login/Register Forms built with HTML5 & CSS3.
 
-## Usage
+## Usage:
 
 The forms are made up of both HTML5 and CSS3. The first part involves inserting the HTML found in index.html. Specifically the form that you'd like, be it the register form or the login form. You then need to include the CSS from forms.css.
 
@@ -42,3 +44,9 @@ There is also a lock symbol included by default. This can easily be removed by g
 There are also several different HTML layouts included in this download. Please take note of some of them, such as the background image ones, which require a little bit extra CSS that is included in the <head> part of the HTML. You should copy this to your forms.css file or wherever you CSS is.
 
 With the background image templates, to change the background, just replace the file in the images folder named `bg.jpg` with your own image with the same file name, or change the filename in the CSS for the background to your new file name.
+
+## Credits:
+This is a [Captain Theme Labs](http://captaintheme.com/labs/) experiment made by [Captain Theme](http://captaintheme.com/).
+
+## License:
+**MIT** - Do what you want with it.
